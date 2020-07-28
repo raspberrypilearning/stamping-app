@@ -40,7 +40,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to apply your skills to realise your own project ideas
++ How to experiment with code and design to reach the best results
 + How to improve a user's experience of your project 
 + How to add comments to your code to help you and others with development
 
@@ -51,8 +51,6 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-[Here](http://rpf.io/project-name-go) is a link to the resources for this project.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/stamping-app/print){:target="_blank"}.
 
 --- /collapse ---
