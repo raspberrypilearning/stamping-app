@@ -74,6 +74,6 @@ Remember to keep running your project to test it. Is the program working as you 
 
 --- /task ---
 
-*[App interface]: a set of features/menu so a user can input information and receive output from an app.
+*[app interface]: a set of features/menu so a user can input information and receive output from an app.
 
 --- save ---
