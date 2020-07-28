@@ -1,7 +1,6 @@
 ## Get a sprite moving
 First it is time to design you app interface.
 
- or user interface, is the set of features an application provides so that a user may supply input to, and receive output from, the program. If you think about Microsoft Word, as an example, 
 --- task ---
 This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
 
@@ -74,5 +73,7 @@ Is your sprite the size you want it to be? If not, adjust its size.
 Remember to keep running your project to test it. Is the program working as you had planned?
 
 --- /task ---
+
+*[App interface]: a set of features/menu so a user can input information and receive output from an app.
 
 --- save ---
