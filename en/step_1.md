@@ -41,8 +41,8 @@ title: What you will learn
 ---
 
 + How to apply your skills to realise your own project ideas
-+ How to debug your program
-+ How to reflect on your learning
++ How to improve a user's experience of your project 
++ How to add comments to your code to help you and others with development
 
 --- /collapse ---
 
