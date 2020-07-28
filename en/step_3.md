@@ -1,8 +1,9 @@
 ## Get a sprite moving
-First it is time to design you app interface.
+First it's time to design your app interface. Your interface for the Stamping app includes the menu - graphics and button options as well as the design area where the user will create their design.
 
 --- task ---
-This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
+Think about how you How much space do you want for the menu?
+Do you want to add graphics or colour to the area?
 
 --- no-print ---
 ![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
