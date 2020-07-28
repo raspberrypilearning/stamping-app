@@ -1,18 +1,19 @@
 ## Introduction
-You're going to create a project to try and change someone's mood using sprites that move over a backdrop. You will choose a theme for your project such as relaxing, energising, funny, inspiring or something else - it's your choice.
+You're going to create an app for family and friends to use to design. From a menu of costumes which you will prepare, the app will enable them to get creative. The app will be to design any theme you like - it's your choice. 
 
 ## Skills you should have
-To complete this Looping sprites project you need to have the following skills which you will have learnt when completing [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden):
-- How to use costumes
-- How to use the `forever`{:class="block3control"} block
+To complete this Stamping app project you need to have the following skills which you will have learnt when completing [Fruit salad](https://learning-admin.raspberrypi.org/en/projects/bfruit-salad):
++ How to use `broadcast`{:class="block3events"} and `when I receive`{:class="block3events"} blocks to communicate between different sprites and between the stage and a sprites.
++ How to use the `Pen`{:class="block3extensions"} extension to `stamp`{:class="block3extensions"} sprites
++ How to add code to the Stage
 
-You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
+You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique app.
 
 ## What you will make
 --- no-print ---
 Click on the green flag to see an example project:
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/411774542/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
