@@ -1,14 +1,14 @@
 ## Choose your theme
-Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.
+Now it's time to think about your project. What app will you make? You need to make a Stamping app for users to develop their own designs. The theme, the costumes and the menu is up to you.
 
-Get ideas for your own Looping sprites project by investigating projects created by others. 
+Get ideas for your own Stamping app project by investigating projects created by others. 
 
 --- task ---
-Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
+Go to the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click 'See inside' to investigate how the projects were made. The costumes in the first sprite, Ingredients, offers different graphics which the user can choose from to make up the design. The menu enables the user to adapt the graphics such as grow, shrink, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
 
-**Tip:** Professional programmers explore, and are inspired by, code created by other programmers.
+**Tip:** Simple modifications to a graphic's size, colour, saturation, facing direction is an easy way to create a complex design.
 
 ![See inside icon](images/see_inside.png)
 
@@ -20,12 +20,13 @@ Create a new Scratch project to start trying out your ideas.
 --- /task ---
 
 --- task ---
-Take 5 minutes to think about **your** Looping sprites project. 
+Take 5 minutes to think about **your** Stamping app project. 
 
-+ What mood do you want to create? Relaxing, Energising, Funny?
-+ Look at the sprites and backdrops that are available in Scratch.
-+ Which backdrop will you choose? 
-+ Which sprite(s) will you choose? (You will just start with one sprite and add more if you have time.)
++ What do you want the user to design?
++ User interaction: how do you want the user to engage with your app?
++ Look at the sprites, costumes and backdrops that are available in Scratch.
++ Will you Choose a Backdrop or one create one in the Paint Editor?
++ What costumes does the user need to make their designs? Will you investigate Choose a Sprite for costumes or will you make them?
 
 --- /task ---
 
@@ -48,6 +49,6 @@ Give your project a title that matches your theme.
 
 --- /task ---
 
-*[algorithm]: A set of precise instructions for performing a task.
+*[User interaction]: designing for a user’s experience of an digital product such as an app
 
 --- save ---
