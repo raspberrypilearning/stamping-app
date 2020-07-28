@@ -1,8 +1,7 @@
 ## Get a sprite moving
-Now it is time to get your first sprite moving. You will start with one sprite and then add more. 
+First it is time to design you app interface.
 
-Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop. 
-
+ or user interface, is the set of features an application provides so that a user may supply input to, and receive output from, the program. If you think about Microsoft Word, as an example, 
 --- task ---
 This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
 
