@@ -11,7 +11,7 @@ Choose any sprite. Remember you can change the sprite's costumes later.
 
 --- task ---
 
-Rename your chosen sprite with a name which relates to your unique project.
+Rename your chosen sprite with a name which relates to your unique project. We will call the sprite "your equivalent of the Ingredients sprite".
 
 **Add me in: scratch-renaming-sprite**
 
@@ -19,15 +19,21 @@ Rename your chosen sprite with a name which relates to your unique project.
 
 --- task ---
 
-Go to [Stamp fruit step in the Fruit salad project](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1). 
+Go to the Stamp fruit step in the project [Fruit salad](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1). 
 
 --- /task ---
 
 --- task ---
 
-Search for when I recieve and investigate this section of the step. It will take you through the process of creating the set-up code for your equivalent of the Ingredients sprite so you can begin to stamp graphics.
+Search for the phrase when I recieve and investigate this section of the step. It will take you through the process of creating the set-up code for your equivalent of the Ingredients sprite so you can begin to stamp graphics.
 
 **Add me in: projectadmin-wordsearchtool - possibly gif**
+
+--- /task ---
+
+--- task ---
+
+Go to your equivalent of the Ingredients sprite's Code tab:
 
 --- /task ---
 
@@ -38,10 +44,10 @@ Add the following code:
 when I receive [add]
 go to (mouse-pointer v)
 stamp
-go to x: (-172) y: (112)
+go to x: ( ) y: ( )
 ```
 
-**Tip:** The final block are the coordinates of the `go to x: y:`{:class="block3motion"} which return your sprite to its starting position within the menu. The srpite will have that location automatically in `Motion block`{:class="block3motion"} so you shouldn't need to change the coordinates.
+**Tip:** The final block are the coordinates of the `go to x: y:`{:class="block3motion"} which return your sprite to its starting position within the menu. The sprite will note that location automatically in `Motion block`{:class="block3motion"} so you shouldn't need to change the coordinates.
 
 **Add me in: scratch-x/yinMotionBlock-sprite**
 
@@ -49,7 +55,7 @@ go to x: (-172) y: (112)
 
 --- task ---
 
-Try out your project by clicking on the design area to.
+Try out your project by clicking on the design area.
 
 Your equivalent of the Ingredients sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu. This happens quickly so you don't see it move!
 
