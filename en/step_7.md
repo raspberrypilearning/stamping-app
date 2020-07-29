@@ -30,3 +30,5 @@ I found a bug in my code and fixed it
 Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
 
 You can go back and improve your project whenever you have time.
+
+Feedback is a great way to reflect on your work. Check if you anyone from the Scratch community has left you a comment on your project.
