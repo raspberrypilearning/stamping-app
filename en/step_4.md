@@ -73,13 +73,15 @@ Go to the Cosumtes tab of your sprite.
 --- /task ---
 
 --- task ---
-Create a number of costumes relevant to your project, either by adapting costumes from the Choose a Sprite menu, adapting them in Paint Editor or creating them yourself in the Paint Editor. 
+Create a number of costumes relevant to your project, either by selecting costumes from the Choose a Sprite menu, adapting them in Paint Editor or creating them yourself in the Paint Editor. 
+
+**Tip:** In Paint Editor, you can select an area of a costumes to use to create a unique costume.
 
 **Add me in: scratch-findingcostumessembeddedinsprites**
 --- /task ---
 
 --- task ---
-Remember you can delete existing costumes which you no longer require.
+Remember to delete existing costumes which you no longer require.
 
 **Add me in: scratch-deletingcostumes**
 
