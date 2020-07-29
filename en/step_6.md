@@ -4,7 +4,9 @@ If you are in a club, why not demonstrate your project to friends and peers?
 
 If you are at home, try the project out with your family. 
 
-If you have a Scratch account you can share your project through Scratch. Then you can send a link to people you know and the whole Scratch community will be able to find your project and try it out.
+If you have a Scratch account you can share your Stamping app project through Scratch. Then you can send a link to people you know and the whole Scratch community will be able to find your project and try it out. 
+
+Encourage others with Scratch accounts to leave comments about your creation. Feedback is a great way to reflect on your work. Ignore any comments which are negative or irrelevant.
 
 [[[share-scratch]]]
 
