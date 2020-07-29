@@ -12,7 +12,9 @@ Do you want to add a graphic and/or colour to the design area?
 --- /task ---
 
 --- task ---
-On the Backdrop, create your design area using graphics and/or colour.
+Go to the Backdrops tab and create the design area using graphics and/or colour.
+
+--- /task ---
 
 --- task ---
 Select the Code tab for the Backdrop.
