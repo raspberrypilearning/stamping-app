@@ -1,49 +1,73 @@
-## Add more sprites
-Now you've got one sprite moving the way you want it to, you can add more. 
+## Ingredients
+Now you've got the graphical user interface designed you need to make it interactive.
+
+At this stage, you are going to get the interaction working before you develop the Ingredient sprite's costumes. 
 
 --- task ---
-Duplicate your first sprite to create the starting point for your next sprite.
 
-**Add me in: scratch-duplicating-sprite**
+Choose any sprite. Remember you can change the sprite's costumes later.
 
 --- /task ---
 
 --- task ---
 
-Change the new sprite's costume or edit the costume with the paint editor so that it looks different from your first sprite. 
+Rename your chosen sprite with a name which relates to your unique project.
 
-**Add me in: scratch-paint-tool-basics**
-
-
---- /task ---
-
---- task ---
-Think about how this sprite will be different to the first sprite. 
-
-How big should the sprite be? 
-Which direction will it point in?
-
-Will the sprite appear behind or in front or other sprites?
-**Add me in: generic-scratch-layers**
-
-Try different movement patterns: 
-
-**Add me in: generic-scratch-spin-around**
-
-**Add me in: generic-move-in-a-circle**
-
---- /task ---
-
-
---- task ---
-Make sure you have selected the sprite that you want to change and click on the Code tab.
-
-Change the code so that the new sprite does what you want it to.
+**Add me in: scratch-renaming-sprite**
 
 --- /task ---
 
 --- task ---
-If you have time, you can keep adding more sprites. Make each one different to the others. 
+
+Go to [Stamp fruit step in the Fruit salad project](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1). 
+
+--- /task ---
+
+--- task ---
+
+Search for when I recieve and investigate this section of the step. It will take you through the process of creating the set-up code for your equivalent of the Ingredients sprite so you can begin to stamp graphics.
+
+**Add me in: projectadmin-wordsearchtool - possibly gif**
+
+--- /task ---
+
+--- task ---
+
+Add the following code:
+```blocks3
+when I receive [add]
+go to (mouse-pointer v)
+stamp
+go to x: (-172) y: (112)
+```
+
+**Tip:** The final block are the coordinates of the `go to x: y:`{:class="block3motion"} which return your sprite to its starting position within the menu. The srpite will have that location automatically in `Motion block`{:class="block3motion"} so you shouldn't need to change the coordinates.
+
+**Add me in: scratch-x/yinMotionBlock-sprite**
+
+--- /task ---
+
+--- task ---
+
+Try out your project by clicking on the design area to.
+
+Your equivalent of the Ingredients sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu. This happens quickly so you don't see it move!
+
+You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. Rememeber, the `add`{:class="block3events"} message only gets broadcast if you click on the Stage.
+
+If you add a piece of fruit so that it overlaps the Stage then the stamp will automatically go behind the menu. 
+
+**Tip:** On all projects, stamps go on top of backdrops but underneath sprites. 
+
+--- task ---
+Go to the Cosumtes tab of your sprite.
+
+--- /task ---
+
+--- task ---
+Create a number of costumes relevant to your project, either by adapting costumes from the Choose a Sprite menu, adapting them in Paint Editor or creating them yourself in the Paint Editor.
+
+**Add me in: scratch-findingcostumessembeddedinsprites**
 
 --- /task ---
 
