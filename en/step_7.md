@@ -15,7 +15,10 @@ I can plan a graphical user interface to help a user navigate an app
 --- task ---
 I can work between the code and Sprites and/or Backdrops to make an effective app
 --- task ---
-I shared my project and learnt from someone else
+I received comments about my shared project from the Scratch community
+--- /task ---
+--- task ---
+I learnt from someone else
 --- /task ---
 --- task ---
 I remixed someone else's project
