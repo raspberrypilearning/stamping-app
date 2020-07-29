@@ -1,4 +1,4 @@
-## Ingredients
+## Ingredients or equivalent
 Now you've got the graphical user interface designed you need to make it interactive.
 
 At this stage, you are going to get the interaction working before you develop the Ingredient sprite's costumes. 
