@@ -59,15 +59,23 @@ If you add a piece of fruit so that it overlaps the Stage then the stamp will au
 
 **Tip:** On all projects, stamps go on top of backdrops but underneath sprites. 
 
+--- /task ---
+
 --- task ---
 Go to the Cosumtes tab of your sprite.
 
 --- /task ---
 
 --- task ---
-Create a number of costumes relevant to your project, either by adapting costumes from the Choose a Sprite menu, adapting them in Paint Editor or creating them yourself in the Paint Editor.
+Create a number of costumes relevant to your project, either by adapting costumes from the Choose a Sprite menu, adapting them in Paint Editor or creating them yourself in the Paint Editor. 
 
 **Add me in: scratch-findingcostumessembeddedinsprites**
+--- /task ---
+
+--- task ---
+Remember you can delete existing costumes which you no longer require.
+
+**Add me in: scratch-deletingcostumes**
 
 --- /task ---
 
