@@ -1,22 +1,24 @@
 ## Reflect on your project
-How did you get on with your Looping sprites project? Is there anything you would do differently? 
+How did you get on with your Stamping app project? What new ideas do you have for making a project?
 
 Remind yourself what you have learned:
 
 --- task ---
-I can use if on edge, bounce inside a forever loop to make my sprite turn away from the edge of the stage
+I can create and/or modify Costumes and Backdrops in the Paint editor
 --- /task ---
 --- task ---
-I can use a forever loop to make a sprite repeat code 
+I can use broadcast to communicate between sprites
 --- /task ---
 --- task ---
-I can modify a costume in the paint editor
+I can plan a graphical user interface to help a user navigate an app
 --- /task ---
 --- task ---
-My  project uses rotation styles to change how my sprite rotates
+I can work between the code and Sprites and/or Backdrops to make an effective app
+--- task ---
+I shared my project and learnt from someone else
 --- /task ---
 --- task ---
-I can use layers to make it look like some sprites are in front of others
+I remixed someone else's project
 --- /task ---
 --- task ---
 I found a bug in my code and fixed it
@@ -24,6 +26,4 @@ I found a bug in my code and fixed it
 
 Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
 
-You can go back and improve your project whenever you have time. 
-
-If you have a Scratch account and have shared your Looping sprites project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments which are negative or irrelevant.
+You can go back and improve your project whenever you have time.
