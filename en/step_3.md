@@ -2,26 +2,58 @@
 First it's time to design your graphical user interface (GUI) for the Stamping app. The GUI will includes the menu - ingredients and buttons - as well as the design area of the window where the user will create their design.
 
 --- task ---
+Design your Backdrop.
+
 Think about what you want the graphical user interface to look like.
 How much space will you need for the menu?
-What buttons do you want?
-Do you want to add a graphic or colour to the design area?
+What buttons do you need?
+Do you want to add a graphic and/or colour to the design area?
 
---- no-print ---
-![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
---- /no-print ---
+--- /task ---
 
---- print-only ---
-![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
---- /print-only ---
+--- task ---
+On the Backdrop, create your design area using graphics and/or colour.
 
-To set up the interface code for the Backdrop:Here's the code it uses:
+--- task ---
+Select the Code tab for the Backdrop.
+
+--- /task ---
+
+--- task ---
+Add this simple code for the Backdrop:
 
 ```blocks3
+when stage clicked
 broadcast [add v]
 ```
+Look at the code and understand how it works.
 
-Look at the code and understand how it makes the sprite move.
+**Add me in: generic-broadcast **
+
+--- /task ---
+
+--- task ---
+Create a sprite called Menu.
+
+--- /task ---
+
+--- task ---
+In the Paint Editor create a menu. In thee xamples given, a plain white rectangle has been used. The menu should not include any buttons.
+
+--- /task ---
+
+--- task ---
+Set the menu to Backward so that the menu will always sit behind the buttons you create. Sprites automativally sit on top of Backdrop so the menu will sit on the Backdrop that you make. 
+
+**Add me in: generic-painteditor/arrangeforwardORbackward**
+
+--- /task ---
+
+--- task ---
+
+Reposition the menu to one side of the Backdrop's design area.
+
+--- /task ---
 
 Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the stage. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage. 
 
