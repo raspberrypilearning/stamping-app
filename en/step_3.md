@@ -1,8 +1,10 @@
 ## Get a sprite moving
-First it's time to design your app interface. Your interface for the Stamping app includes the menu - graphics and button options as well as the design area where the user will create their design.
+First it's time to design your graphical user interface for the Stamping app. The interface will includes the menu - graphics and button options - as well as the design area where the user will create their design.
 
 --- task ---
-Think about how you How much space do you want for the menu?
+Think about how you want the interface to look.
+How much space do you want for the menu?
+What buttons do you want.
 Do you want to add graphics or colour to the area?
 
 --- no-print ---
@@ -75,6 +77,6 @@ Remember to keep running your project to test it. Is the program working as you 
 
 --- /task ---
 
-*[app interface]: a set of features/menu so a user can input information and receive output from an app.
+*[graphical user interface (GUI)]: a visual way of interacting with windows, icons and menus so a user can input information and receive output from an application.
 
 --- save ---
