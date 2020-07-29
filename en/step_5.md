@@ -16,24 +16,18 @@ Choose or create in Paint Editor a sprite for each button you need. Don't forget
 --- /task ---
 
 --- task ---
-Locate  the buttons where they need to go  on the Stage.
+Position the buttons where they need to go on the Stage.
 
 --- /task ---
 
-Click on the Code tab of each button and add the following code. Don't forget to add a easy to recognise message for the broadcast i.e if the button flips the image then call the message flip etc.:
+--- task ---
+
+Click on the Code tab of each of the button sprite and add the following code. On each of the button sprite, don't forget to add a New message to the broadcast which is easy to understand i.e if the button flips the costume then call the message flip etc.:
 
 ```blocks3
 when this sprite clicked
 broadcast [New message  v]
 ```
+--- /task ---
 
-
-[[[generic-scratch3-sprite-rotation-style]]]
-
-
-scratch-graphic-effects
-
-scratch-paint-ungroup
-
-scratch-paint-eyedropper
-
+--- save ---
