@@ -2,10 +2,10 @@
 First it's time to design your graphical user interface (GUI) for the Stamping app. The GUI will includes the menu - ingredients and buttons - as well as the design area of the window where the user will create their design.
 
 --- task ---
-Think about how you want the graphical user interface to look.
-How much space do you need for the menu?
-What buttons do you want.
-Do you want to add graphics or colour to the design area?
+Think about what you want the graphical user interface to look like.
+How much space will you need for the menu?
+What buttons do you want?
+Do you want to add a graphic or colour to the design area?
 
 --- no-print ---
 ![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
@@ -15,17 +15,10 @@ Do you want to add graphics or colour to the design area?
 ![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
 --- /print-only ---
 
-Here's the code it uses:
+To set up the interface code for the Backdrop:Here's the code it uses:
 
 ```blocks3
-when flag clicked
-set rotation style [don't rotate v]
-point in direction (0)
-set size to (100) %
-forever
-move (5) steps
-if on edge, bounce
-end
+broadcast [add v]
 ```
 
 Look at the code and understand how it makes the sprite move.
