@@ -1,4 +1,4 @@
-## Get a sprite moving
+## App interface
 First it's time to design your graphical user interface (GUI) for the Stamping app. The GUI will includes the menu - ingredients and buttons - as well as the design area of the window where the user will create their design.
 
 --- task ---
