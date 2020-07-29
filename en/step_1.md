@@ -40,7 +40,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to experiment with code and design to reach the best results
++ How to experiment between code and design to reach the best results
 + How to improve a user's experience of your project 
 + How to add comments to your code to help you and others with development
 
