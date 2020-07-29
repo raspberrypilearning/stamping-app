@@ -37,21 +37,22 @@ You now need to go to your equivalent of the Ingredients sprite and add the foll
 when I receive [message v]
 change size by (5)
 ```
-OR
-```
+OR shrink it:
+```blocks3
 when I receive [message v]
 change size by (-5)
 ```
-OR
-```
-when I receive [message v]
-change [color v] effect by (5) :: looks
-```
-OR
-```
+OR flip it:
+```blocks3
 when I receive [message v]
 turn (180) degrees :: motion
 ```
-etc
+OR change its colour:
+```blocks3
+when I receive [message v]
+change [color v] effect by (5) :: looks
+```
+OR think of another effect you would like to use.
+
 --- /task ---
 --- save ---
