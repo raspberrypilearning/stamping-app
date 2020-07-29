@@ -33,6 +33,7 @@ broadcast [New message  v]
 --- task ---
 
 You now need to go to your equivalent of the Ingredients sprite and add the following code to recieve the broadcast from each of your button sprites:
+Grow it:
 ```blocks3
 when I receive [message v]
 change size by (5)
@@ -52,7 +53,7 @@ OR change its colour:
 when I receive [message v]
 change [color v] effect by (5) :: looks
 ```
-OR think of another effect you would like to use.
+From the dropdown, match the correct broadcast message to the effect.
 
 --- /task ---
 --- save ---
