@@ -1,11 +1,11 @@
 ## Get a sprite moving
-First it's time to design your graphical user interface for the Stamping app. The interface will includes the menu - graphics and button options - as well as the design area where the user will create their design.
+First it's time to design your graphical user interface (GUI) for the Stamping app. The GUI will includes the menu - ingredients and buttons - as well as the design area of the window where the user will create their design.
 
 --- task ---
-Think about how you want the interface to look.
-How much space do you want for the menu?
+Think about how you want the graphical user interface to look.
+How much space do you need for the menu?
 What buttons do you want.
-Do you want to add graphics or colour to the area?
+Do you want to add graphics or colour to the design area?
 
 --- no-print ---
 ![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
