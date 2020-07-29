@@ -14,6 +14,7 @@ I can plan a graphical user interface to help a user navigate an app
 --- /task ---
 --- task ---
 I can work between the code and Sprites and/or Backdrops to make an effective app
+--- /task ---
 --- task ---
 I received comments about my shared project from the Scratch community
 --- /task ---
