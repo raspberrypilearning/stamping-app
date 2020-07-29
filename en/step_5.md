@@ -9,9 +9,9 @@ Explore the buttons used in the projects. Click 'See inside' to investigate how 
 --- /task ---
 
 --- task ---
-Choose or create in Paint Editor a sprite for each button you need. Don't forget to add an icon on the button so the user understands visually the buttons effect.
+Choose or create in Paint Editor a sprite for each button you need. Don't forget to add a simple icon on each button sprite to visually communicate the buttons effect.
 
-**Tip:** There are some useful button graphics in Scratch - search for buttons in Choose a Sprite.
+**Tip:** There are some useful button graphics in Scratch - to find these search for buttons in Choose a Sprite.
 
 --- /task ---
 
@@ -22,7 +22,7 @@ Position the buttons where they need to go on the Stage.
 
 --- task ---
 
-Click on the Code tab of each of the button sprite and add the following code. On each of the button sprite, don't forget to add a New message to the broadcast which is easy to understand i.e if the button flips the costume then call the message flip etc.:
+Click on the Code tab of each of the button sprites and add the following code. On each of the button sprites, don't forget to add a New message to the broadcast which is easy to understand i.e if the button flips the costume then call the message flip etc. Make sure you are in the correct button sprite's Code tab when doing this:
 
 ```blocks3
 when this sprite clicked
