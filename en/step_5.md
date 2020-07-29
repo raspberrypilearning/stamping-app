@@ -53,7 +53,7 @@ Change its colour:
 when I receive [message v]
 change [color v] effect by (5) :: looks
 ```
-From the dropdown, don't forget to match the correct broadcast message to the effect.
+From the `When I receive message`{:class="block3events"} dropdown, don't forget to select the correct broadcast message to match the added effect.
 
 --- /task ---
 --- save ---
