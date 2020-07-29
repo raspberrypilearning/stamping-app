@@ -1,4 +1,4 @@
-## Ingredients or equivalent
+## Ingredients sprite or equivalent
 Now you've got the graphical user interface designed you need to make it interactive.
 
 At this stage, you are going to get the interaction working before you develop the Ingredient sprite's costumes. 
@@ -85,6 +85,26 @@ Remember to delete existing costumes which you no longer require.
 
 **Add me in: scratch-deletingcostumes**
 
+--- /task ---
+
+You now need to add two set up blocks of code. 
+
+--- task ---
+The first set up block is  to clear the Stage of any stamps when the user runs the app:
+```blocks3
+when green flag clicked
+clear graphics effects :: looks
+```
+--- /task ---
+
+--- task ---
+
+The second set up block is when your equivalent of the Ingredients sprite is clicked, it automatically changes to the next costume:
+
+```blocks3
+when this sprite clicked
+change costume :: looks
+```
 --- /task ---
 
 --- save ---
