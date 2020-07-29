@@ -32,28 +32,28 @@ broadcast [New message  v]
 
 --- task ---
 
-You now need to go to your equivalent of the Ingredients sprite and add the following code to recieve the broadcast from each of your button sprites:
+You now need to go to your equivalent of the Ingredients sprite and add the relevant code so  it recieves the broadcast from each of your button sprites and responds with an effect:
 Grow it:
 ```blocks3
 when I receive [message v]
 change size by (5)
 ```
-OR shrink it:
+Shrink it:
 ```blocks3
 when I receive [message v]
 change size by (-5)
 ```
-OR flip it:
+Flip it:
 ```blocks3
 when I receive [message v]
 turn (180) degrees :: motion
 ```
-OR change its colour:
+Change its colour:
 ```blocks3
 when I receive [message v]
 change [color v] effect by (5) :: looks
 ```
-From the dropdown, match the correct broadcast message to the effect.
+From the dropdown, don't forget to match the correct broadcast message to the effect.
 
 --- /task ---
 --- save ---
