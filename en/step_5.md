@@ -38,13 +38,14 @@ Have you added code to each button?
 --- task ---
 
 You now need to go to your equivalent of the Ingredients sprite and add the relevant code so it recieves the broadcast from each of your button sprites and responds with an effect. 
+--- /task ---
 
 --- task ---
 From the `When I receive message`{:class="block3events"} drop-down, don't forget to select the correct broadcast message for the effect you want to add.
 --- /task ---
 
 --- task ---
-Now add the `Looks block`{:class="block3looks"} to create the effect.
+Now add the relevant `Looks`{:class="block3looks"} blocks to create the effects.
 
 Below is a reminder of the code for the effects:
 Grow:
