@@ -31,19 +31,7 @@ Take 5 minutes to think about **your** Stamping app project.
 --- /task ---
 
 --- task ---
-Choose and add a backdrop of your choice. You can change it later as you develop your idea. 
-
-[[[generic-scratch3-backdrop-from-library]]]
---- /task ---
-
---- task ---
-Choose and add your first sprite. You will be able to add more costumes to this sprite later.
-
-[[[generic-scratch-sprite-from-library]]]
---- /task ---
-
---- task ---
-Give your project a title that matches your theme. 
+Open a project a give it a title that matches your theme. 
 
 **generic-scratch-title with gif**
 
