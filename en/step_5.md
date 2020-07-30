@@ -1,5 +1,5 @@
 ## Buttons
-Now its time to create buttons. What do your buttons need to do? Grow, shrink, flip horizontally, flip vertically, ghost?
+Now its time to create buttons. What do your buttons need to do? Grow, shrink, change colour, flip horizontally, flip vertically, ghost?
 
 --- task ---
 Go to the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} Scratch studio.
@@ -9,20 +9,20 @@ Explore the buttons used in the projects. Click 'See inside' to investigate how 
 --- /task ---
 
 --- task ---
-Choose or create in Paint Editor a sprite for each button you need. Don't forget to add a simple icon on each button sprite to visually communicate the buttons effect.
+Choose or create in Paint Editor a sprite for each button you need. Don't forget to add a simple icon on top of each button sprite to visually communicate the button's effect.
 
 **Tip:** There are some useful button graphics in Scratch - to find these search for buttons in Choose a Sprite.
 
 --- /task ---
 
 --- task ---
-Position the buttons where they need to go on the Stage.
+Position the buttons where you want them to go on the menu on the Stage.
 
 --- /task ---
 
 --- task ---
 
-Click on the Code tab of each of the button sprites and add the following code. On each of the button sprites, don't forget to add a New message to the broadcast which is easy to understand i.e if the button flips the costume then call the message flip etc. Make sure you are in the correct button sprite's Code tab when doing this:
+Click on the Code tab of each of the button sprites and add the following code. On each of the button sprites, don't forget to add a New message to broadcast which is easy to understand i.e if the button flips the costume then call the broadcast message flip etc. Make sure you are in the correct button sprite's Code tab when creating the code:
 
 ```blocks3
 when this sprite clicked
@@ -31,8 +31,22 @@ broadcast [New message  v]
 --- /task ---
 
 --- task ---
+Have you added code to each button?
 
-You now need to go to your equivalent of the Ingredients sprite and add the relevant code so  it recieves the broadcast from each of your button sprites and responds with an effect:
+--- /task ---
+
+--- task ---
+
+You now need to go to your equivalent of the Ingredients sprite and add the relevant code so it recieves the broadcast from each of your button sprites and responds with an effect. 
+
+--- task ---
+From the `When I receive message`{:class="block3events"} drop-down, don't forget to select the correct broadcast message for the effect you want to add.
+--- /task ---
+
+--- task ---
+Now add the `Looks block`{:class="block3looks"} to create the effect.
+
+Below is a reminder of the code for the effects:
 Grow:
 ```blocks3
 when I receive [message v]
@@ -53,7 +67,14 @@ Change colour:
 when I receive [message v]
 change [color v] effect by (5) :: looks
 ```
-From the `When I receive message`{:class="block3events"} drop-down, don't forget to select the correct broadcast message to match the added effect.
+--- /task ---
+
+--- task ---
+Run the program. Is it working as you had planned?
+
+**Add: scratch-debug ** 
 
 --- /task ---
+
+
 --- save ---
