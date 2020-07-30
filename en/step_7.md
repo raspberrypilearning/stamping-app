@@ -13,13 +13,16 @@ I can use broadcast to communicate between sprites
 I can plan a graphical user interface to help a user navigate an app
 --- /task ---
 --- task ---
-I can experiment between code and design to make an effective project
+I can experiment between code and design to reach the best results
 --- /task ---
 --- task ---
 I received comments about my shared project from the Scratch community
 --- /task ---
 --- task ---
-I learnt from someone else
+I commented on my code
+--- /task ---
+--- task ---
+I completed the Instructions, Notes and Credits in the Scratch Project page
 --- /task ---
 --- task ---
 I remixed someone else's project
