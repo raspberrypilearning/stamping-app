@@ -1,5 +1,5 @@
 ## Introduction
-You're going to create an app for family and friends to use to design. From a menu of costumes which you will prepare, the app will enable them to get creative. The app will be to design any theme you like - it's your choice. 
+You're going to create an app for family and friends to use to design a picture or pattern. Using a menu, they will select and adapt images and/or shapes which you will provide. You will choose the theme of the app.
 
 ## Skills you should have
 To complete this Stamping app project you need to have the following skills which you will have learnt when completing [Fruit salad](https://learning-admin.raspberrypi.org/en/projects/bfruit-salad):
@@ -7,7 +7,7 @@ To complete this Stamping app project you need to have the following skills whic
 + How to use the `Pen`{:class="block3extensions"} extension to `stamp`{:class="block3extensions"} sprites
 + How to add code to the Stage
 
-You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique app.
+You will now apply these skills to create your own project where you will choose your own sprites, costumes and Backdrop to create a unique app.
 
 ## What you will make
 --- no-print ---
