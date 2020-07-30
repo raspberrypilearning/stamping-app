@@ -1,5 +1,5 @@
 ## App interface
-First it's time to design your Graphical User Interface (GUI) for the Stamping app. For your appthe GUI will include a menu with ingredients and buttons as well as the design area of the window where the user will create their picture or pattern.
+First it's time to design your Graphical User Interface (GUI) for the Stamping app. For your app, the GUI will include a menu with ingredients (pictures and/or patterns) and buttons as well as the design area of the window where the user will create their picture or pattern.
 
 --- task ---
 Design your interface.
@@ -65,6 +65,12 @@ At this stage, you may need to reposition the menu to one side of the Backdrop's
 
 --- /task ---
 
+--- task ---
+
+Save your project
+**Add me in: generic-save-scratch**
+
+--- /task ---
 *[Graphical User Interface (GUI)]: a visual way of interacting with windows, icons and menus so a user can input information and receive output from an application.
 
 --- save ---
