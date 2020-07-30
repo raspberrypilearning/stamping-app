@@ -19,13 +19,10 @@ I can experiment between code and design to reach the best results
 I received comments about my shared project from the Scratch community
 --- /task ---
 --- task ---
-I commented on my code
+I commented on my code within my Scratch project
 --- /task ---
 --- task ---
 I completed the Instructions, Notes and Credits in the Scratch Project page
---- /task ---
---- task ---
-I remixed someone else's project
 --- /task ---
 --- task ---
 I found a bug in my code and fixed it
