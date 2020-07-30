@@ -41,8 +41,8 @@ title: What you will learn
 ---
 
 + How to experiment between code and design to reach the best results
-+ How to improve a user's experience of your project 
-+ How to add comments to your code to help you and others with development
++ How to improve a user's experience of my project 
++ How to add comments to my code to help me and others with development
 
 --- /collapse ---
 
