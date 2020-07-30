@@ -1,12 +1,12 @@
 ## App interface
-First it's time to design your graphical user interface (GUI) for the Stamping app. The GUI will includes the menu - ingredients and buttons - as well as the design area of the window where the user will create their design.
+First it's time to design your Graphical User Interface (GUI) for the Stamping app. For your appthe GUI will include a menu with ingredients and buttons as well as the design area of the window where the user will create their picture or pattern.
 
 --- task ---
 Design your interface.
 
 Think about what you want the graphical user interface to look like.
 How much space will you need for the menu?
-What buttons do you need? You will make them in the next step  but you need enough space for them when you are planning.
+What buttons do you need? You will make them in the next step but you need to plan enough space for the buttons.
 Do you want to add a graphic and/or colour to the design area?
 
 ![Image of labelled interface](images/labelled_interface.png){:width="400px"}
@@ -44,7 +44,7 @@ Now create a sprite called Menu. Go to Choose a Sprite and select Paint to acces
 --- /task ---
 
 --- task ---
-In the Paint Editor create a menu. In the examples given, a plain white rectangle has been used. The menu should not include any buttons.
+In the Paint Editor, create a menu. In the examples given, a plain white rectangle has been used. The menu should not include any buttons.
 
 --- /task ---
 
@@ -55,16 +55,16 @@ Set the menu to Backward so that the menu will always sit behind the buttons you
 
 --- /task ---
 
-Sprites automatically sit on top of Backdrop so the menu will sit on top of the Backdrop that you have created. 
+Sprites automatically sit on top of Backdrops so the menu will sit on top of the Backdrop that you have created. 
 
 The menu sprite needs no code.
 
 --- task ---
 
-At the stage you may need to reposition the menu to one side of the Backdrop's design area or make the interface's design area larger or smaller.
+At this stage, you may need to reposition the menu to one side of the Backdrop's design area or make the interface's design area larger or smaller.
 
 --- /task ---
 
-*[graphical user interface (GUI)]: a visual way of interacting with windows, icons and menus so a user can input information and receive output from an application.
+*[Graphical User Interface (GUI)]: a visual way of interacting with windows, icons and menus so a user can input information and receive output from an application.
 
 --- save ---
