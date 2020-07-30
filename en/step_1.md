@@ -1,5 +1,5 @@
 ## Introduction
-You're going to create an app for family and friends to use to design a picture or pattern. Using a menu, they will select and adapt images and/or shapes which you will provide. You will choose the theme of the app.
+You're going to create an app for family and friends to use to design a picture or pattern. Using a menu, they will select and adapt images and/or shapes which you will provide to use in the design area of your app. You will choose the theme of the app.
 
 ## Skills you should have
 To complete this Stamping app project you need to have the following skills which you will have learnt when completing [Fruit salad](https://learning-admin.raspberrypi.org/en/projects/bfruit-salad):
