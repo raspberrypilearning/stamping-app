@@ -41,6 +41,10 @@ You now need to go to your equivalent of the Ingredients sprite and add the rele
 --- /task ---
 
 --- task ---
+Go to the Code tab in your equivalent of the Ingredients sprite.
+--- /task ---
+
+--- task ---
 From the `When I receive message`{:class="block3events"} drop-down, don't forget to select the correct broadcast message for the effect you want to add.
 --- /task ---
 
@@ -77,5 +81,9 @@ Run the program. Is it working as you had planned?
 
 --- /task ---
 
+--- task ---
+You have a number of sets of Scratch blocks in your equivalent of the Ingredients sprite. Add comments to the code so you, and any other programmer exploring your project, know quickly and easily what each set of blocks does. Comments are really useful tool as your project become more complex. Comments in Scratch look like Post-it notes. 
 
+**Add: scratch-commenting** 
+--- /task ---
 --- save ---
