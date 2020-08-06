@@ -38,49 +38,49 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-Investgate the **Butterfly garden** Scratch project.
+Investgate the **Fruit salad** Scratch project.
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/411575753/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/403091557/editor/){:target="_blank"}
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/411575753/editor/){:target="_blank"}
 
 --- /task ---
 
 --- task ---
 
-Investgate the **Love heart sweets** Scratch project.
+Investgate the **Gift wrap stamping** Scratch project.
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/411774542/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408665598/editor/){:target="_blank"}
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/411774542/editor/){:target="_blank"}
 
 --- /task ---
 
 --- task ---
 
-Investgate the **Jellyfish formation** Scratch project.
+Investgate the **Rainforest stamping** Scratch project.
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/411774120/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408666042/editor/){:target="_blank"}
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/411774120/editor/){:target="_blank"}
 
 --- /task ---
 
 --- task ---
 
-Investgate the **Party food** Scratch project.
+Investgate the **Write a message** Scratch project.
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/411770935/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/407335201/editor/){:target="_blank"}
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/411770935/editor/){:target="_blank"}
 
 --- /task ---
 
