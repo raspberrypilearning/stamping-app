@@ -1,19 +1,25 @@
 ## App interface
-First it's time to design your Graphical User Interface (GUI) for the Stamping app. For your app, the GUI will include a menu with ingredients (pictures and/or patterns) and buttons as well as the design area of the window where the user will create their picture or pattern.
+
+First, it's time to design the Graphical User Interface (GUI) for your stamping app. For your app, the GUI will include a menu with ingredients (pictures or patterns) and buttons as well as the design area of the window where the user will create their picture or pattern.
+
+`ALTERNATIVE BELOW`
+
+First, it's time to design the Graphical User Interface (GUI) for your stamping app. For your app, the GUI will include the main design area of the window where the user will create their picture or pattern and a menu with the pictures or patterns to be used as a stamp and buttons to control how the stamps look.
 
 --- task ---
 Design your interface.
 
 Think about what you want the graphical user interface to look like.
-How much space will you need for the menu?
-What buttons do you need? You will make them in the next step but you need to plan enough space for the buttons.
-Do you want to add a graphic and/or colour to the design area?
++ How much space will you need for the menu?
++ What buttons do you need? Don't worry about the code yet but plan enough space for the buttons and where they will go.
++ Do you want to add a colour, image or pattern to the design area?
 
 ![Image of labelled interface](images/labelled_interface.png){:width="400px"}
 
 --- /task ---
 
 --- task ---
+
 Go to the Backdrops tab and create a design area for your interface using graphics and/or colour.
 
 --- /task ---

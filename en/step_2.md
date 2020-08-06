@@ -1,8 +1,8 @@
 ## Get inspiration
 
-You are going to create a Stamping app which will allow users to develop their own designs. The theme, menu and costumes are up to you.
+You are going to create a stamping app which will allow users to develop their own designs. The theme, menu and costumes are up to you.
 
-You can get ideas for your own Stamping app project by investigating projects created by others. 
+You can get ideas for your own stamping app project by investigating projects created by others. 
 
 --- task ---
 
@@ -22,7 +22,7 @@ Click `See inside`{:class="block3motion"} below a project to investigate its cod
 
 --- print-only ---
 
-Go to the [Stamping app](https://scratch.mit.edu/studios/27160618) Scratch studio.
+Go to the [stamping app](https://scratch.mit.edu/studios/27160618) Scratch studio.
 
 In each, clicking the top menu sprite changes the sprite's costume and other buttons offer different graphic effects such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
 
