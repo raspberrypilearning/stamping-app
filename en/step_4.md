@@ -4,7 +4,7 @@ First, it's time to design the Graphical User Interface (GUI) for your stamping 
 
 `ALTERNATIVE BELOW`
 
-First, it's time to design the Graphical User Interface (GUI) for your stamping app. For your app, the GUI will include the main design area of the window where the user will create their picture or pattern and a menu with the pictures or patterns to be used as a stamp and buttons to control how the stamps look.
+First, it's time to design the Graphical User Interface (GUI) for your stamping app. The GUI will include the design area where the user will create their image, and a menu with the picture or pattern sprite to be used as a stamp and buttons to control how the stamps look.
 
 --- task ---
 Design your interface.
@@ -25,24 +25,27 @@ Go to the Backdrops tab and create a design area for your interface using graphi
 --- /task ---
 
 --- task ---
+
 Select the Code tab for the Backdrop.
 
 --- /task ---
 
 --- task ---
-Add this simple code for the Backdrop:
+
+Add this code to the Stage:
 
 ```blocks3
 when stage clicked
 broadcast [add v]
 ```
-Look at the code and understand how it works.
+Look at the code and try to understand how it works.
 
 **Add me in: generic-broadcast **
 
 --- /task ---
 
 --- task ---
+
 Now create a sprite called Menu. Go to Choose a Sprite and select Paint to access the Paint Editor.
 
 **Add me in: generic-ChooseaSprite/Paint **
@@ -50,12 +53,14 @@ Now create a sprite called Menu. Go to Choose a Sprite and select Paint to acces
 --- /task ---
 
 --- task ---
-In the Paint Editor, create a menu. In the examples given, a plain white rectangle has been used. The menu should not include any buttons.
+
+In the Paint Editor, create a menu. In the examples given, a plain white rectangle has been used. The menu sprite should not include any buttons as the buttons will be completely separate sprites you will make later.
 
 --- /task ---
 
 --- task ---
-Set the menu to Backward so that the menu will always sit behind the buttons you create.
+
+Set the menu to the `back layer`{:class="block3looks"} so that the menu will always sit behind the buttons you create.
 
 **Add me in: generic-painteditor/arrangeforwardORbackward**
 
@@ -63,11 +68,11 @@ Set the menu to Backward so that the menu will always sit behind the buttons you
 
 Sprites automatically sit on top of Backdrops so the menu will sit on top of the Backdrop that you have created. 
 
-The menu sprite needs no code.
+The menu sprite doesn't need any code.
 
 --- task ---
 
-At this stage, you may need to reposition the menu to one side of the Backdrop's design area or make the interface's design area larger or smaller.
+At this stage, you may need to reposition the menu to one side of the stage's design area or make the interface's design area larger or smaller.
 
 --- /task ---
 
