@@ -1,76 +1,42 @@
-## App interface
-First it's time to design your Graphical User Interface (GUI) for the Stamping app. For your app, the GUI will include a menu with ingredients (pictures and/or patterns) and buttons as well as the design area of the window where the user will create their picture or pattern.
+## Choose your theme
+Now it's time to think about your project. What app will you make? You need to make a Stamping app for users to develop their own designs. The theme, the menu and the costumes are up to you.
+
+Get ideas for your own Stamping app project by investigating projects created by others. 
 
 --- task ---
-Design your interface.
+Go to the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} Scratch studio.
 
-Think about what you want the graphical user interface to look like.
-How much space will you need for the menu?
-What buttons do you need? You will make them in the next step but you need to plan enough space for the buttons.
-Do you want to add a graphic and/or colour to the design area?
+Click 'See inside' to investigate how the projects were made. The costumes in the Ingredients sprite offers different graphics which the user can choose from to make up their picture or pattern. The menu enables the user to adapt the graphics such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
 
-![Image of labelled interface](images/labelled_interface.png){:width="400px"}
+**Tip:** An easy way to create a complex design or pattern is to make many simple modifications to a graphic's size, colour, saturation and facing direction.
+
+![See inside icon](images/see_inside.png)
 
 --- /task ---
 
 --- task ---
-Go to the Backdrops tab and create a design area for your interface using graphics and/or colour.
+Create a new Scratch project to start trying out your ideas.
 
 --- /task ---
 
 --- task ---
-Select the Code tab for the Backdrop.
+Take 5 minutes to think about **your** Stamping app project. 
+
++ What pictue or pattern do you want the user to design?
++ User interaction: how do you want the user to engage with your app?
++ Look at the sprites, costumes and backdrops that are available in Scratch.
++ Will you Choose a Backdrop or one create one in the Paint Editor? What suits your idea best?
++ What costumes does the user need to make their designs? Will you investigate Choose a Sprite for costumes or will you create them in thePaint Editor?
 
 --- /task ---
 
 --- task ---
-Add this simple code for the Backdrop:
+Open a project a give it a title that matches your theme. 
 
-```blocks3
-when stage clicked
-broadcast [add v]
-```
-Look at the code and understand how it works.
-
-**Add me in: generic-broadcast **
+**generic-scratch-title with gif**
 
 --- /task ---
 
---- task ---
-Now create a sprite called Menu. Go to Choose a Sprite and select Paint to access the Paint Editor.
-
-**Add me in: generic-ChooseaSprite/Paint **
-
---- /task ---
-
---- task ---
-In the Paint Editor, create a menu. In the examples given, a plain white rectangle has been used. The menu should not include any buttons.
-
---- /task ---
-
---- task ---
-Set the menu to Backward so that the menu will always sit behind the buttons you create.
-
-**Add me in: generic-painteditor/arrangeforwardORbackward**
-
---- /task ---
-
-Sprites automatically sit on top of Backdrops so the menu will sit on top of the Backdrop that you have created. 
-
-The menu sprite needs no code.
-
---- task ---
-
-At this stage, you may need to reposition the menu to one side of the Backdrop's design area or make the interface's design area larger or smaller.
-
---- /task ---
-
---- task ---
-
-Save your project
-**Add me in: generic-save-scratch**
-
---- /task ---
-*[Graphical User Interface (GUI)]: a visual way of interacting with windows, icons and menus so a user can input information and receive output from an application.
+*[User interaction]: designing for a user’s experience of an digital product such as an app
 
 --- save ---

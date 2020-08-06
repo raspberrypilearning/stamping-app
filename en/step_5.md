@@ -1,89 +1,111 @@
-## Buttons
-Now its time to create buttons. What do your buttons need to do? Grow, shrink, change colour, flip horizontally, flip vertically, ghost?
+## Ingredients sprite or equivalent
+You've got the Graphical User Interface (GUI) designed. Now you need to make it interactive.
+
+At this stage, you are going to get the interaction working before you develop the sprite's picture and/or pattern making costumes.
 
 --- task ---
-Go to the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} Scratch studio.
 
-Explore the buttons used in the projects. Click 'See inside' to investigate how the code for the buttons works.
-
---- /task ---
-
---- task ---
-Choose or create in Paint Editor a sprite for each button you need. Don't forget to add a simple icon on top of each button sprite to visually communicate the button's effect.
-
-**Tip:** There are some useful button graphics in Scratch - to find these search for buttons in Choose a Sprite.
-
---- /task ---
-
---- task ---
-Position the buttons where you want them to go on the menu on the Stage.
+Choose any sprite. Remember you can change the sprite's costumes later.
 
 --- /task ---
 
 --- task ---
 
-Click on the Code tab of each of the button sprites and add the following code. On each of the button sprites, don't forget to add a New message to broadcast which is easy to understand i.e if the button flips the costume then call the broadcast message flip etc. Make sure you are in the correct button sprite's Code tab when creating the code:
+Rename your chosen sprite with a name which relates to your unique project. We will refer to the sprite "your equivalent of the Ingredients sprite".
+
+**Add me in: scratch-renaming-sprite**
+
+--- /task ---
+
+--- task ---
+
+Go to the project Fruit salad to explore the step [Stamp fruit](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1).
+
+--- /task ---
+
+--- task ---
+
+When you are in the step, search for the phrase `when I recieve`{:class="block3events"} and investigate this section of the step. It will take you through the process of creating the set-up code for your equivalent of the Ingredients sprite so you can begin to stamp graphics.
+
+**Add me in: projectadmin-wordsearchtool - possibly gif**
+
+--- /task ---
+
+--- task ---
+
+Go to your equivalent of the Ingredients sprite's Code tab:
+
+--- /task ---
+
+--- task ---
+
+Add the following code:
+```blocks3
+when I receive [add]
+go to (mouse-pointer v)
+stamp
+go to x: ( ) y: ( )
+```
+
+**Tip:** The final block, `go to x: y:`{:class="block3motion"}, gives the coordinates to return your sprite to its starting position within the menu. The sprite's  position in the menu will be noted automatically in `Motion block`{:class="block3motion"} so you shouldn't need to change the coordinates in the block.
+
+**Add me in: scratch-x/yinMotionBlock-sprite**
+
+--- /task ---
+
+--- task ---
+
+Try out your project by clicking on the design area.
+
+Your equivalent of the Ingredients sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu. This happens quickly so you don't see it move!
+
+You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. Rememeber, the `add`{:class="block3events"} message only gets broadcast if you click on the Stage.
+
+If you add a costume that overlaps the Stage then the stamp will automatically go behind the menu. 
+
+**Tip:** On all projects, stamps go on top of Backdrops but underneath sprites. 
+
+--- /task ---
+
+--- task ---
+Go to the Costumes tab of your sprite.
+
+--- /task ---
+
+--- task ---
+Create a number of costumes relevant to your project, either by selecting costumes from the Choose a Sprite menu, adapting them in Paint Editor or by creating them yourself in the Paint Editor. 
+
+**Tip:** In Paint Editor, you can select an area of a costumes to use to create a unique costume.
+
+**Add me in: scratch-findingcostumessembeddedinsprites**
+--- /task ---
+
+--- task ---
+Remember to delete existing costumes which you no longer require.
+
+**Add me in: scratch-deletingcostumes**
+
+--- /task ---
+
+You now need to add two set up blocks of code. 
+
+--- task ---
+The first set up block clears the Stage of any stamps at the start when the user runs the app:
+```blocks3
+when green flag clicked
+clear graphics effects :: looks
+```
+--- /task ---
+
+--- task ---
+
+The second set up block automatically changes to the next costume when your equivalent of the Ingredients sprite is clicked:
 
 ```blocks3
 when this sprite clicked
-broadcast [New message  v]
+change costume :: looks
 ```
 --- /task ---
 
---- task ---
-Have you added code to each button?
-
---- /task ---
-
---- task ---
-
-You now need to go to your equivalent of the Ingredients sprite and add the relevant code so it recieves the broadcast from each of your button sprites and responds with an effect. 
---- /task ---
-
---- task ---
-Go to the Code tab in your equivalent of the Ingredients sprite.
---- /task ---
-
---- task ---
-From the `When I receive message`{:class="block3events"} drop-down, don't forget to select the correct broadcast message for the effect you want to add.
---- /task ---
-
---- task ---
-Now add the relevant `Looks`{:class="block3looks"} blocks to create the effects.
-
-Below is a reminder of the code for the effects:
-Grow:
-```blocks3
-when I receive [message v]
-change size by (5)
-```
-Shrink:
-```blocks3
-when I receive [message v]
-change size by (-5)
-```
-Flip:
-```blocks3
-when I receive [message v]
-turn (180) degrees :: motion
-```
-Change colour:
-```blocks3
-when I receive [message v]
-change [color v] effect by (5) :: looks
-```
---- /task ---
-
---- task ---
-Run the program. Is it working as you had planned?
-
-**Add: scratch-debug ** 
-
---- /task ---
-
---- task ---
-You have a number of sets of Scratch blocks in your equivalent of the Ingredients sprite. Add comments to the code so you, and any other programmer exploring your project, know quickly and easily what each set of blocks does. Comments are really useful tool as your project become more complex. Comments in Scratch look like Post-it notes. 
-
-**Add: scratch-commenting** 
---- /task ---
 --- save ---
+

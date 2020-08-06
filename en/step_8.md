@@ -1,7 +1,33 @@
-## What next?
+## Reflect on your project
+How did you get on with your Stamping app project? What new ideas do you have for making a project?
 
-If you have been following along the Skills projects in the Being Mindful pathway then go back to the next Skills project, [Relax and stretch](https://learning-admin.raspberrypi.org/en/projects/relax-stretch) and begin to use `repeat`{:class="block3control"} in a program.
+Remind yourself what you have learned:
 
-If you have completed all the Skills projects in the Look After Yourself pathway and are now following the Make it yours projects, then go on to the next project [Same but different](https://learning-admin.raspberrypi.org/en/projects/same-but-different). 
+--- task ---
+I created and/or modify Costumes and Backdrops in the Paint editor
+--- /task ---
+--- task ---
+I used broadcast to communicate between sprites
+--- /task ---
+--- task ---
+I planned a Graphical User Interface (GUI) to help a user navigate an app
+--- /task ---
+--- task ---
+I experimented between code and design to reach the best results
+--- /task ---
+--- task ---
+I found a bug in my code and fixed it
+--- /task ---
+--- task ---
+I commented on my code within my Scratch project
+--- /task ---
+--- task ---
+I completed the Instructions, Notes and Credits in the Scratch Project page
+--- /task ---
+--- task ---
+I received comments about my shared project from the Scratch community and acted on their feedback
+--- /task ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
+
+You can go back and improve your project whenever you have time.

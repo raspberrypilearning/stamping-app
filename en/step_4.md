@@ -1,111 +1,76 @@
-## Ingredients sprite or equivalent
-You've got the Graphical User Interface (GUI) designed. Now you need to make it interactive.
-
-At this stage, you are going to get the interaction working before you develop the sprite's picture and/or pattern making costumes.
+## App interface
+First it's time to design your Graphical User Interface (GUI) for the Stamping app. For your app, the GUI will include a menu with ingredients (pictures and/or patterns) and buttons as well as the design area of the window where the user will create their picture or pattern.
 
 --- task ---
+Design your interface.
 
-Choose any sprite. Remember you can change the sprite's costumes later.
+Think about what you want the graphical user interface to look like.
+How much space will you need for the menu?
+What buttons do you need? You will make them in the next step but you need to plan enough space for the buttons.
+Do you want to add a graphic and/or colour to the design area?
+
+![Image of labelled interface](images/labelled_interface.png){:width="400px"}
 
 --- /task ---
 
 --- task ---
-
-Rename your chosen sprite with a name which relates to your unique project. We will refer to the sprite "your equivalent of the Ingredients sprite".
-
-**Add me in: scratch-renaming-sprite**
+Go to the Backdrops tab and create a design area for your interface using graphics and/or colour.
 
 --- /task ---
 
 --- task ---
-
-Go to the project Fruit salad to explore the step [Stamp fruit](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1).
-
---- /task ---
-
---- task ---
-
-When you are in the step, search for the phrase `when I recieve`{:class="block3events"} and investigate this section of the step. It will take you through the process of creating the set-up code for your equivalent of the Ingredients sprite so you can begin to stamp graphics.
-
-**Add me in: projectadmin-wordsearchtool - possibly gif**
+Select the Code tab for the Backdrop.
 
 --- /task ---
 
 --- task ---
-
-Go to your equivalent of the Ingredients sprite's Code tab:
-
---- /task ---
-
---- task ---
-
-Add the following code:
-```blocks3
-when I receive [add]
-go to (mouse-pointer v)
-stamp
-go to x: ( ) y: ( )
-```
-
-**Tip:** The final block, `go to x: y:`{:class="block3motion"}, gives the coordinates to return your sprite to its starting position within the menu. The sprite's  position in the menu will be noted automatically in `Motion block`{:class="block3motion"} so you shouldn't need to change the coordinates in the block.
-
-**Add me in: scratch-x/yinMotionBlock-sprite**
-
---- /task ---
-
---- task ---
-
-Try out your project by clicking on the design area.
-
-Your equivalent of the Ingredients sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu. This happens quickly so you don't see it move!
-
-You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. Rememeber, the `add`{:class="block3events"} message only gets broadcast if you click on the Stage.
-
-If you add a costume that overlaps the Stage then the stamp will automatically go behind the menu. 
-
-**Tip:** On all projects, stamps go on top of Backdrops but underneath sprites. 
-
---- /task ---
-
---- task ---
-Go to the Costumes tab of your sprite.
-
---- /task ---
-
---- task ---
-Create a number of costumes relevant to your project, either by selecting costumes from the Choose a Sprite menu, adapting them in Paint Editor or by creating them yourself in the Paint Editor. 
-
-**Tip:** In Paint Editor, you can select an area of a costumes to use to create a unique costume.
-
-**Add me in: scratch-findingcostumessembeddedinsprites**
---- /task ---
-
---- task ---
-Remember to delete existing costumes which you no longer require.
-
-**Add me in: scratch-deletingcostumes**
-
---- /task ---
-
-You now need to add two set up blocks of code. 
-
---- task ---
-The first set up block clears the Stage of any stamps at the start when the user runs the app:
-```blocks3
-when green flag clicked
-clear graphics effects :: looks
-```
---- /task ---
-
---- task ---
-
-The second set up block automatically changes to the next costume when your equivalent of the Ingredients sprite is clicked:
+Add this simple code for the Backdrop:
 
 ```blocks3
-when this sprite clicked
-change costume :: looks
+when stage clicked
+broadcast [add v]
 ```
+Look at the code and understand how it works.
+
+**Add me in: generic-broadcast **
+
 --- /task ---
+
+--- task ---
+Now create a sprite called Menu. Go to Choose a Sprite and select Paint to access the Paint Editor.
+
+**Add me in: generic-ChooseaSprite/Paint **
+
+--- /task ---
+
+--- task ---
+In the Paint Editor, create a menu. In the examples given, a plain white rectangle has been used. The menu should not include any buttons.
+
+--- /task ---
+
+--- task ---
+Set the menu to Backward so that the menu will always sit behind the buttons you create.
+
+**Add me in: generic-painteditor/arrangeforwardORbackward**
+
+--- /task ---
+
+Sprites automatically sit on top of Backdrops so the menu will sit on top of the Backdrop that you have created. 
+
+The menu sprite needs no code.
+
+--- task ---
+
+At this stage, you may need to reposition the menu to one side of the Backdrop's design area or make the interface's design area larger or smaller.
+
+--- /task ---
+
+--- task ---
+
+Save your project
+**Add me in: generic-save-scratch**
+
+--- /task ---
+*[Graphical User Interface (GUI)]: a visual way of interacting with windows, icons and menus so a user can input information and receive output from an application.
 
 --- save ---
-

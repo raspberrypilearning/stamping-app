@@ -1,41 +1,89 @@
-## Share your project
+## Buttons
+Now its time to create buttons. What do your buttons need to do? Grow, shrink, change colour, flip horizontally, flip vertically, ghost?
 
----task---
-On your projects’s Project Page, complete the Instructions section. Include a variety of instructions to help others interact with your project:
-Click on the green flag to start.
-Best viewed in Full  Screen. 
-Click on the graphic to choose a different graphic.
-Click on the buttons to alter the graphic before stamping it.
-You can’t move or change the stamps after you add them so think carefully before stamping your graphic.
-Click the green flag to design area and start again.
+--- task ---
+Go to the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} Scratch studio.
 
-Never share your personal information online.
----/task---
+Explore the buttons used in the projects. Click 'See inside' to investigate how the code for the buttons works.
 
----task---
+--- /task ---
 
-If you are in a club, why not demonstrate your project to friends and peers?
+--- task ---
+Choose or create in Paint Editor a sprite for each button you need. Don't forget to add a simple icon on top of each button sprite to visually communicate the button's effect.
 
-If you are at home, try the project out with your family. 
+**Tip:** There are some useful button graphics in Scratch - to find these search for buttons in Choose a Sprite.
 
-If you have a Scratch account you can share your project through Scratch. By sharing your Scratch projects, you become part of a community. 
+--- /task ---
 
-[[[share-scratch]]]
----/task---
+--- task ---
+Position the buttons where you want them to go on the menu on the Stage.
 
----task---
-Leave commenting on. 
+--- /task ---
 
-Then you can send a link to people you know and the whole Scratch community will be able to find, play and comment on your project.
+--- task ---
 
-Encourage others with Scratch accounts to leave comments about your creation.
+Click on the Code tab of each of the button sprites and add the following code. On each of the button sprites, don't forget to add a New message to broadcast which is easy to understand i.e if the button flips the costume then call the broadcast message flip etc. Make sure you are in the correct button sprite's Code tab when creating the code:
 
-Keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments which are negative or irrelevant.
+```blocks3
+when this sprite clicked
+broadcast [New message  v]
+```
+--- /task ---
 
----/task---
+--- task ---
+Have you added code to each button?
 
----task---
-Test and support others by commenting on their projects as well.
+--- /task ---
 
----/task---
+--- task ---
 
+You now need to go to your equivalent of the Ingredients sprite and add the relevant code so it recieves the broadcast from each of your button sprites and responds with an effect. 
+--- /task ---
+
+--- task ---
+Go to the Code tab in your equivalent of the Ingredients sprite.
+--- /task ---
+
+--- task ---
+From the `When I receive message`{:class="block3events"} drop-down, don't forget to select the correct broadcast message for the effect you want to add.
+--- /task ---
+
+--- task ---
+Now add the relevant `Looks`{:class="block3looks"} blocks to create the effects.
+
+Below is a reminder of the code for the effects:
+Grow:
+```blocks3
+when I receive [message v]
+change size by (5)
+```
+Shrink:
+```blocks3
+when I receive [message v]
+change size by (-5)
+```
+Flip:
+```blocks3
+when I receive [message v]
+turn (180) degrees :: motion
+```
+Change colour:
+```blocks3
+when I receive [message v]
+change [color v] effect by (5) :: looks
+```
+--- /task ---
+
+--- task ---
+Run the program. Is it working as you had planned?
+
+**Add: scratch-debug ** 
+
+--- /task ---
+
+--- task ---
+You have a number of sets of Scratch blocks in your equivalent of the Ingredients sprite. Add comments to the code so you, and any other programmer exploring your project, know quickly and easily what each set of blocks does. Comments are really useful tool as your project become more complex. Comments in Scratch look like Post-it notes. 
+
+**Add: scratch-commenting** 
+--- /task ---
+--- save ---
