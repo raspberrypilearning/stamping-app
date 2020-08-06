@@ -1,42 +1,89 @@
-## Choose your theme
-Now it's time to think about your project. What app will you make? You need to make a Stamping app for users to develop their own designs. The theme, the menu and the costumes are up to you.
+## Get inspiration
 
-Get ideas for your own Stamping app project by investigating projects created by others. 
+You are going to create a Stamping app which will allow users to develop their own designs. The theme, menu and costumes are up to you.
+
+You can get ideas for your own Stamping app project by investigating projects created by others. 
 
 --- task ---
-Go to the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. The costumes in the Ingredients sprite offers different graphics which the user can choose from to make up their picture or pattern. The menu enables the user to adapt the graphics such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
+--- no-print ---
 
-**Tip:** An easy way to create a complex design or pattern is to make many simple modifications to a graphic's size, colour, saturation and facing direction.
+Have a look at the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} projects below from the Raspberry Pi Foundation Scratch studio.
+
+In each, clicking the top menu sprite changes the sprite's costume and other buttons offer different graphic effects such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
+
+Click the green flag on a project to see the code run.
+
+Click `See inside`{:class="block3motion"} below a project to investigate its code. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
+
+--- /no-print ---
+
+--- print-only ---
+
+Go to the [Stamping app](https://scratch.mit.edu/studios/27160618) Scratch studio.
+
+In each, clicking the top menu sprite changes the sprite's costume and other buttons offer different graphic effects such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
+
+Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 ![See inside icon](images/see_inside.png)
 
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
+
+--- /print-only ---
+
+--- no-print ---
+
+--- task ---
+
+Investgate the **Butterfly garden** Scratch project.
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/403091557/editor/){:target="_blank"}
+
 --- /task ---
 
 --- task ---
-Create a new Scratch project to start trying out your ideas.
+
+Investgate the **Love heart sweets** Scratch project.
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408665598/editor/){:target="_blank"}
 
 --- /task ---
 
 --- task ---
-Take 5 minutes to think about **your** Stamping app project. 
 
-+ What pictue or pattern do you want the user to design?
-+ User interaction: how do you want the user to engage with your app?
-+ Look at the sprites, costumes and backdrops that are available in Scratch.
-+ Will you Choose a Backdrop or one create one in the Paint Editor? What suits your idea best?
-+ What costumes does the user need to make their designs? Will you investigate Choose a Sprite for costumes or will you create them in thePaint Editor?
+Investgate the **Jellyfish formation** Scratch project.
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408666042/editor/){:target="_blank"}
 
 --- /task ---
 
 --- task ---
-Open a project a give it a title that matches your theme. 
 
-**generic-scratch-title with gif**
+Investgate the **Party food** Scratch project.
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/407335201/editor/){:target="_blank"}
 
 --- /task ---
 
-*[User interaction]: designing for a user’s experience of an digital product such as an app
+--- /no-print ---
 
---- save ---
+*[algorithm]: A set of precise instructions for performing a task.
