@@ -34,6 +34,8 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- /print-only ---
 
+--- /task ---
+
 --- no-print ---
 
 --- task ---
