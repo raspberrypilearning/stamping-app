@@ -1,7 +1,7 @@
 ## Ingredients sprite or equivalent
-You've got the Graphical User Interface (GUI) designed. Now you need to make it interactive.
+You've got the Graphical User Interface (GUI) created, so the next step is to make it interactive.
 
-At this stage, you are going to get the interaction working before you develop the sprite's picture and/or pattern making costumes.
+Right now, you are going to get the interaction working, and later you'll develop the stamping sprite's picture and/or pattern making costumes.
 
 --- task ---
 
