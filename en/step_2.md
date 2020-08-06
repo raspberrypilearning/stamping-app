@@ -1,4 +1,4 @@
-## Choose your theme
+## Develop your theme
 Now it's time to think about your project. What app will you make? You need to make a Stamping app for users to develop their own designs. The theme, the menu and the costumes are up to you.
 
 Get ideas for your own Stamping app project by investigating projects created by others. 
