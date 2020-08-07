@@ -40,7 +40,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-Investgate the **Fruit salad** Scratch project.
+Investigate the **Fruit salad** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/411575753/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -52,7 +52,7 @@ Investgate the **Fruit salad** Scratch project.
 
 --- task ---
 
-Investgate the **Gift wrap stamping** Scratch project.
+Investigate the **Gift wrap stamping** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/411774542/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -64,7 +64,7 @@ Investgate the **Gift wrap stamping** Scratch project.
 
 --- task ---
 
-Investgate the **Rainforest stamping** Scratch project.
+Investigate the **Rainforest stamping** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/411774120/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -76,7 +76,7 @@ Investgate the **Rainforest stamping** Scratch project.
 
 --- task ---
 
-Investgate the **Write a message** Scratch project.
+Investigate the **Write a message** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/411770935/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
