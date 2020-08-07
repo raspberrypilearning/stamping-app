@@ -19,7 +19,7 @@ Rename your chosen sprite with a name which relates to your unique project. We w
 
 --- task ---
 
-Go to the project Fruit salad to explore the step [Stamp fruit](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1).
+Go to the project Fruit salad and explore the [Stamp fruit](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1){:target="_blank"} step.
 
 --- /task ---
 

@@ -46,7 +46,7 @@ Look at the code and try to understand how it works.
 
 --- task ---
 
-Now create a sprite called Menu. Go to Choose a Sprite and select Paint to access the Paint Editor.
+Now create a sprite called **Menu**. Go to Choose a Sprite and select Paint to access the Paint Editor.
 
 **Add me in: generic-ChooseaSprite/Paint **
 
