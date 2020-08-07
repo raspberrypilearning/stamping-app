@@ -1,4 +1,5 @@
-## Ingredients sprite or equivalent
+## Stamp sprite
+
 You've got the Graphical User Interface (GUI) created, so the next step is to make it interactive.
 
 Right now, you are going to get the interaction working, and later you'll develop the stamping sprite's picture and/or pattern making costumes.
@@ -11,7 +12,7 @@ Choose any sprite. Remember you can change the sprite's costumes later.
 
 --- task ---
 
-Rename your chosen sprite with a name which relates to your unique project. We will refer to the sprite "your equivalent of the Ingredients sprite".
+Rename your chosen sprite to **stamp** or with a name which relates to your unique project. 
 
 **Add me in: scratch-renaming-sprite**
 
