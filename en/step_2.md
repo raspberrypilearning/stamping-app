@@ -76,7 +76,7 @@ Investigate the **Rainforest stamping** Scratch project.
 
 --- task ---
 
-Investigate the **Write a message** Scratch project.
+Investgate the **Write a message** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/411770935/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
