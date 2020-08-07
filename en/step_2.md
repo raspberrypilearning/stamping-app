@@ -10,7 +10,7 @@ You can get ideas for your own stamping app project by investigating projects cr
 
 Have a look at the [Stamping app](https://scratch.mit.edu/studios/27160618){:target="_blank"} projects below from the Raspberry Pi Foundation Scratch studio.
 
-In each, clicking the top menu sprite changes the sprite's costume and other buttons offer different graphic effects such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
+In each, clicking the first menu sprite changes the sprite's costume and other buttons offer different graphic effects such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
 
 Click the green flag on a project to see the code run.
 

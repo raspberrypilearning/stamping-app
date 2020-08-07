@@ -20,7 +20,7 @@ Rename your chosen sprite to **stamp** or with a name which relates to your uniq
 
 --- task ---
 
-Go to the project Fruit salad and explore the [Stamp fruit](https://learning-admin.raspberrypi.org/en/projects/fruit-salad/1){:target="_blank"} step.
+Go to the project Fruit salad and explore the [Stamp fruit](https://project.raspberrypi.org/en/projects/fruit-salad/1){:target="_blank"} step.
 
 --- /task ---
 
