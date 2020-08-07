@@ -14,7 +14,7 @@ In each, clicking the first menu sprite changes the sprite's costume and other b
 
 Click the green flag on a project to see the code run.
 
-Click `See inside`{:class="block3motion"} below a project to investigate its code. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click `See inside`{:class="block3motion"} below a project to investigate its code.
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
@@ -26,7 +26,7 @@ Go to the [stamping app](https://scratch.mit.edu/studios/27160618) Scratch studi
 
 In each, clicking the top menu sprite changes the sprite's costume and other buttons offer different graphic effects such as grow, shrink, colour change, flip horizontal, flip vertical, ghost etc - what the menu offers is your choice.
 
-Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click `See inside`{:class="block3motion"} to investigate how the projects were made.
 
 ![See inside icon](images/see_inside.png)
 
@@ -88,4 +88,3 @@ Investigate the **Write a message** Scratch project.
 
 --- /no-print ---
 
-*[algorithm]: A set of precise instructions for performing a task.
